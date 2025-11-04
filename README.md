@@ -22,7 +22,7 @@ Predicting Customer Сhurn
 3. **Моделирование**:  
    - Протестированы Logistic Regression, Random Forest, XGBoost  
    - Лучшая модель: **XGBoost**  
-   - Метрики: **ROC-AUC = 0.88**, **F1-score = 0.81**  
+   - Метрики: **ROC-AUC = **** **, **F1-score = **** **  
 4. **Интерпретация**: важнейшие признаки — `Balance`, `IsActiveMember`, `NumOfProducts`
 
 ## Бизнес-рекомендации
