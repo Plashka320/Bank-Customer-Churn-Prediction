@@ -1,6 +1,18 @@
-.DS_Store
+# Data
+data/raw/
+data/processed/
+*.csv
+
+# Jupyter
 .ipynb_checkpoints/
+
+# Python
 __pycache__/
 *.pyc
-.DS_Store
+.venv/
 .env
+
+# System
+.DS_Store
+
+
